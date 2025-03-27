@@ -1,12 +1,15 @@
 ## 👋 Hi, I'm Yogita Chaudhari  
 🚀 SAP & Web Developer | Learning SAP ABAP & Security  
 
-## 🚀 About Me
-- 🔭 I’m currently working on SAP Modules & Web Development
-- 🌱 I’m currently learning SAP ABAP & SAP Security
-- 👯 I’m looking to collaborate on SAP & Web Development Projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogita-chaudhari-a3603a278)  
-- ⚡ Fun fact:  I love exploring new technologies & problem-solving!
+## 🚀 About Me  
+🔹 Currently Learning: SAP ABAP & SAP Security  
+🔹 Working On: SAP Modules & Web Development  
+🔹 Looking to Collaborate On: SAP & Web Development Projects  
+🔹 Fun Fact: I love problem-solving & exploring new technologies! 
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogita-chaudhari-a3603a278)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yogitac992)  
 
 ### 🛠 Tech Stack:
 💻 Languages: C, Python, JavaScript, SQL
