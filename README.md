@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  I love exploring new technologies! 
 
 ### 🛠 Tech Stack:
-💻 Languages: C, Python, JavaScript, SQL  
+💻 Languages: C, Python, JavaScript, SQL
 🛠 Web: HTML, CSS  
 🖥 SAP Modules: SAP MM, SAP ABAP, SAP Security  
 
